@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-    <h2>Добро пожаловать на портал о Travel-жизни в Тюмени</h2>
+    <h2>Добро пожаловать на портал о Travel-жизни в Тюмени JGJGFJGJfjfjfjfjf6666</h2>
   <!-- <HelloWorld msg="Добро пожаловать на портал о Travel-жизни в Тюмени"/> -->
 </template>
 
